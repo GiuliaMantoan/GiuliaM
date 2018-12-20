@@ -35,7 +35,7 @@ weight = 7
   
 [[feature]]
   icon = "font"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "LaTex"
   description = "100%"  
   
