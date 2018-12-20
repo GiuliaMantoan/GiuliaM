@@ -65,11 +65,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "giulia.mantoan.16@mail.wbs.ac.uk"
   address = "Finance Group, Warwick Business School, The University of Warwick Coventry CV4 7AL, UK"
-  office_hours = """
-  Monday 10:00 to 13:00\\
-  Wednesday 09:00 to 10:00\\
-  Otherwise email to book an appointment
-  """
+  office_hours = ""
   phone = "07465 202085"
   skype = "giuliamantoan91"
   telegram = ""
@@ -97,10 +93,10 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  map = 2
+  map_api_key = "pk.eyJ1IjoiZ21hbnRvYW4iLCJhIjoiY2pwd3ByZmM4MHc3bzN4bW03NzYxemU5NiJ9.W8CeD316W3RMYSsiVh7R2Q"
+  latitude = "52.382552"
+  longitude = "-.565623"
   zoom = 15
 
   # SITE SETUP
