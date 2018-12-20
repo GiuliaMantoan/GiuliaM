@@ -51,6 +51,10 @@ weight = 7
   name = "French"
   description = "60%" 
   
-
+ [[feature]]
+  icon = "spa"
+  icon_pack = "fas"
+  name = "Yoga"
+  description = "100%" 
 
 +++
