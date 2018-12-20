@@ -301,10 +301,10 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 4
+#[[menu.main]]
+ # name = "Posts"
+  #url = "#posts"
+  #weight = 4
 
 [[menu.main]]
   name = "Projects"
@@ -326,7 +326,7 @@ enableGitInfo = false
  [[menu.main]]
     name = "CV"
     url = "static/img/giuliamantoan.pdf"
-    weight = 6
+    weight = 4
 
 # Search.
 [params.search]
