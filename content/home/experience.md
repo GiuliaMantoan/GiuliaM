@@ -49,7 +49,7 @@ date_format = "January 2006"
   
 [[experience]]
   title = "Visiting Student"
-  company = "Univerist\'{e} Paris Sorbonne 1 - Panth\'{e}on Sorbonne"
+  company = "Univeriste Paris Sorbonne 1 - Pantheon Sorbonne"
   company_url = "http://www.pantheonsorbonne.fr"
   location = "Paris, France"
   date_start = "2015-01-01"
