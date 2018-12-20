@@ -45,6 +45,12 @@ weight = 7
   name = "Conference Organizer"
   description = "70%"  
   
+   [[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "French"
+  description = "60%" 
+  
 
 
 +++
