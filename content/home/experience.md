@@ -33,5 +33,16 @@ date_format = "January 2006"
   * Present previsions to practitioners 
   * Write articles for the company press
   """
-
+  title = "Visiting Student"
+  company = "Univerist\'{e} Paris Sorbonne 1 - Panth\'{e}on Sorbonne"
+  company_url = "http://www.pantheonsorbonne.fr"
+  location = "Paris, France"
+  date_start = "2015-01-01"
+  date_end = "2015-06-01"
+  description = """
+  Modules attended:
+  
+  * Labour Economics
+  * International Economics
+  """
 +++
