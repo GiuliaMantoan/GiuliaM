@@ -21,7 +21,7 @@ date_format = "January 2006"
 [[experience]]
   title = "PhD in Finance and Econometrics"
   company = "Warwick Business School, Warwick University"
-  company_url = "https://en.wikipedia.org/wiki/Warwick_Business_School"
+  company_url = "https://www.wbs.ac.uk"
   location = "Coventry, UK"
   date_start = "2016-10-01"
   date_end = "2020-10-01"
@@ -33,32 +33,5 @@ date_format = "January 2006"
   """
 
 
-[[experience]]
-  title = "Junior Economist"
-  company = "Prometeia SPA"
-  company_url = "https://www.prometeia.it/en/research-insights"
-  location = "Bologna, Italy"
-  date_start = "2015-10-01"
-  date_end = "2016-09-01"
-  description = """
-  Responsibilities include:
-  
-  * Build forecasting models tailored to the client
-  * Monitoring financial markets and reporting
-  * Present previsions to practitioners 
-  * Write articles for the company press
-  """
-[[experience]]
-  title = "Visiting Student"
-  company = "Univerist\'{e} Paris Sorbonne 1 - Panth\'{e}on Sorbonne"
-  company_url = "http://www.pantheonsorbonne.fr"
-  location = "Paris, France"
-  date_start = "2015-01-01"
-  date_end = "2015-06-01"
-  description = """
-  Modules attended:
-  
-  * Labour Economics
-  * International Economics
-  """
+
 +++
