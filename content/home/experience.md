@@ -33,6 +33,7 @@ date_format = "January 2006"
   * Present previsions to practitioners 
   * Write articles for the company press
   """
+[[experience]]
   title = "Visiting Student"
   company = "Univerist\'{e} Paris Sorbonne 1 - Panth\'{e}on Sorbonne"
   company_url = "http://www.pantheonsorbonne.fr"
