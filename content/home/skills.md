@@ -40,7 +40,7 @@ weight = 7
   description = "100%"  
   
  [[feature]]
-  icon = "keynote"
+  icon = "network-wired"
   icon_pack = "fas"
   name = "Conference Organizer"
   description = "70%"  
