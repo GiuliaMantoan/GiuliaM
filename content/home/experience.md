@@ -19,6 +19,21 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "PhD in Finance and Econometrics"
+  company = "Warwick Business School, Warwick University"
+  company_url = "https://en.wikipedia.org/wiki/Warwick_Business_School"
+  location = "Coventry, UK"
+  date_start = "2016-10-01"
+  date_end = "2020-10-01"
+  description = """
+  Supervisors:
+  
+  * Prof. Ana Galvao
+  * Prof. James Mitchell
+  """
+
+
+[[experience]]
   title = "Junior Economist"
   company = "Prometeia SPA"
   company_url = "https://www.prometeia.it/en/research-insights"
