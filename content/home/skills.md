@@ -41,7 +41,7 @@ weight = 7
   
  [[feature]]
   icon = "keynote"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Conference Organizer"
   description = "70%"  
   
