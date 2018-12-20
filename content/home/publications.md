@@ -35,13 +35,7 @@ publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
-[[pubblication]]
 
-  title="Bayesian calibration of generalized pools of predictive distributions",
-  author="Casarin, Roberto and Mantoan, Giulia and Ravazzolo, Francesco",
-  journal="Econometrics",
-  year="2016-04-20T00:00:00",
-  publisher="Multidisciplinary Digital Publishing Institute"
 
 
 +++
