@@ -13,15 +13,13 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
+
+
++++
+
 Academic Year 2017/2018
 """
 * Quantitative methods for Finance: Prof. Cesare Robotti, Master Students
 * Advanced Econometric Theory: Dr. Giovanni Ricco, PhD students
 * Global Integrative Project: Dr. Frederik Dahlmann
 """
-
-+++
-
-This is an example of using the *custom* widget to create your own homepage section.
-
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
