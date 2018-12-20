@@ -2,6 +2,9 @@
 title = "Publications"
 date = 2017-01-01T00:00:00
 
+title = "Bayesian calibration of generalized pools of predictive distributions"
+date = 2016-04-01T00:00:00
+
 
 # List format.
 #   0 = Simple
@@ -13,6 +16,6 @@ list_format = 3
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "Bayesian calibration of generalized pools of predictive distributions"
 caption = ""
 +++
