@@ -39,6 +39,12 @@ weight = 7
   name = "LaTex"
   description = "100%"  
   
+ [[feature]]
+  icon = "keynote"
+  icon_pack = "fab"
+  name = "Conference Organizer"
+  description = "70%"  
+  
 
 
 +++
