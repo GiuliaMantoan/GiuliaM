@@ -57,7 +57,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Warwick Business School", url = "" } ]
+  organizations = [ { name = "Warwick Business School", url = "https://www.wbs.ac.uk" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "foto.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -109,7 +109,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
