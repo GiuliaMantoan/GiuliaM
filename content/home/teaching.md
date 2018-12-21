@@ -15,11 +15,12 @@ weight = 60
 
 
 
-+++
-[custom]
+
+[[custom]]
 Academic Year 2017/2018
 """
 * Quantitative methods for Finance: Prof. Cesare Robotti, Master Students
 * Advanced Econometric Theory: Dr. Giovanni Ricco, PhD students
 * Global Integrative Project: Dr. Frederik Dahlmann
 """
++++
