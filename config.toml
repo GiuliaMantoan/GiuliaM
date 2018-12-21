@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Giulia Mantoan"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -297,7 +297,7 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "Research"
   url = "#publications_selected"
   weight = 2
 
@@ -307,7 +307,7 @@ enableGitInfo = false
   #weight = 4
 
 [[menu.main]]
-  name = "Projects"
+  name = "Teaching"
   url = "#projects"
   weight = 3
 
