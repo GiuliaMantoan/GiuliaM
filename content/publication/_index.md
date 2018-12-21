@@ -15,13 +15,3 @@ list_format = 3
 image = ""
 caption = ""
 +++
-@article{casarin2016bayesian,
-  title={Bayesian calibration of generalized pools of predictive distributions},
-  author={Casarin, Roberto and Mantoan, Giulia and Ravazzolo, Francesco},
-  journal={Econometrics},
-  volume={4},
-  number={1},
-  pages={17},
-  year={2016},
-  publisher={Multidisciplinary Digital Publishing Institute}
-}
