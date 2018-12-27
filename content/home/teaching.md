@@ -14,9 +14,6 @@ subtitle = ""
 weight = 60
 
 
-
-
-[[custom]]
 Academic Year 2017/2018
 """
 * Quantitative methods for Finance: Prof. Cesare Robotti, Master Students
