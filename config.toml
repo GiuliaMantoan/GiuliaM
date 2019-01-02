@@ -103,7 +103,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "dark"
+  color_theme = "default"
   # Enable users to switch between day and night mode?
   day_night = true
 
@@ -112,13 +112,13 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = "Giulia Mantoan"
+  description = ""
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = "foto"
+  sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = "Giulia_Mantoan"
+  twitter = ""
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -141,7 +141,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = true
+  math = false
 
   # Highlight.js options
   #   highlight
@@ -196,7 +196,7 @@ enableGitInfo = false
     'Uncategorized',  # 0
     'Conference paper',  # 1
     'Journal article',  # 2
-    'Working Paper',  # 3
+    'Manuscript',  # 3
     'Report',  # 4
     'Book',  # 5
     'Book section'  # 6
@@ -279,9 +279,9 @@ enableGitInfo = false
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
    #[[params.social]]
-    # icon = "cv"
-     #icon_pack = "ai"
-     #link = "static/img/giuliamantoan.pdf"
+     icon = "cv"
+     icon_pack = "ai"
+     link = "static/img/giuliamantoan.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -297,9 +297,14 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Research"
+  name = "Publications"
   url = "#publications_selected"
   weight = 2
+
+[[menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 3
 
 [[menu.main]]
   name = "Projects"
@@ -307,20 +312,15 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#custom"
-  weight = 3
-
-#[[menu.main]]
- # name = "Tutorials"
-  #url = "/tutorial/"
-  #weight = 5
+  name = "Tutorials"
+  url = "/tutorial/"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 6
-
+  
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
