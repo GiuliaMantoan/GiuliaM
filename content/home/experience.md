@@ -47,6 +47,4 @@ date_format = "January 2006"
   * Write articles for the company press
   """
 
-
-
 +++
